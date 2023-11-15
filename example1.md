@@ -1,3 +1,0 @@
-### Headers
-
-#### What are headers?
